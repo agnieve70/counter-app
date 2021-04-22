@@ -22,7 +22,7 @@ class Counter extends Component {
             </div>
         );
     }
-
+git
     formatCount()
     {
         const { value: count } = this.state;
